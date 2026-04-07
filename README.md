@@ -1,6 +1,6 @@
 <h1 align=center>PowerAI Astro - A Free AI SaaS Website Template</h1>
 
-<p align=center>PowerAI Astro is a free, dark-themed AI SaaS website template built with Astro, Tailwind CSS, TypeScript, and React, designed for AI product teams, SaaS founders, and agencies that need a complete, launch-ready web presence without starting from zero. It ships with 16 pre-built pages, 47 components and shortcodes, Framer Motion animations, and full MDX support. Ready to deploy on Cloudflare Workers, Netlify, or Docker out of the box.
+<p align=center> PowerAI Astro is a free, dark-themed AI SaaS website template built with Astro, Tailwind CSS, TypeScript, and React. Designed for AI product teams, SaaS founders, and agencies who need a complete, launch-ready web presence. It ships with 15+ pre-built unique pages, 47 components and shortcodes, Framer Motion animations, and full MDX support. Ready to deploy on Cloudflare Workers, Vercel, Netlify, or Docker.
 
 <p align=center>
   <a href="https://powerai-astro.pages.dev/">
